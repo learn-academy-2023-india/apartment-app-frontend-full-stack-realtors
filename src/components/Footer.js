@@ -2,7 +2,7 @@ import React from 'react'
 
 const Footer = () => {
   return (
-    <div>Footer</div>
+    <footer>&copy; 2024 Full-Stack Realtors INC | Chantel, Brandon, Mckenley, & Andrew</footer>
   )
 }
 
