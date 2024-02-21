@@ -54,3 +54,15 @@ a {
   margin-top: 20vh;
   font-weight: bold;
 }
+/* for show */
+.apartment-card{
+  width: 30rem;
+  align-items: flex-start;
+  justify-content: center;
+ 
+}
+/* for index */
+.apartment-cards{
+  width: 20rem;
+}
+

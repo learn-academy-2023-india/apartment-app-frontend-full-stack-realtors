@@ -19,8 +19,7 @@ const ApartmentIndex = ({ apartments }) => {
             return (
               <Card key={index} className="apartment-cards">
                 <CardImg
-                  top
-                  width="100%"
+                
                   src={apartment.image}
                   alt=""
                   className="apartment-picture"
